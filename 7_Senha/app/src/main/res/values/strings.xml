@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Senha</string>
+    <string name="text_user">Usuário:</string>
+    <string name="text_password">Senha:</string>
+    <string name="hint_user">Informe seu usuário</string>
+    <string name="hint_password">Informe sua senha</string>
+    <string name="btn_login">OK</string>
+    <string name="btn_insert">CADASTRAR</string>
+    <string name="btn_back">VOLTAR</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="text_real">What is the real value?</string>
+    <string name="text_dollar">Dollar value:</string>
+    <string name="text_euro">Euro value:</string>
+    <string name="text_button">Converter</string>
+    <string name="zero" translatable="false">0.00</string>
+</resources>

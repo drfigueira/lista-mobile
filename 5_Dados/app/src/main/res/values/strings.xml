@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string name="text_name">Nome:</string>
+    <string name="text_age">Idade:</string>
+    <string name="hint_name">Digite seu nome completo</string>
+    <string name="hint_age">Digite sua idade em anos</string>
+    <string name="btn_input">Gravar dados</string>
+    <string name="btn_output">Exibir dados</string>
+    <string name="btn_back">Voltar</string>
+</resources>

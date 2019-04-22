@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ConversaoDeMoedas</string>
+    <string name="text_real">Qual o valor em real?</string>
+    <string name="text_dollar">Valor em Dólar:</string>
+    <string name="text_euro">Valor em Euro:</string>
+    <string name="text_button">Converter</string>
+</resources>

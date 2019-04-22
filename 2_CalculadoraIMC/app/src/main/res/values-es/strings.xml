@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="text_button_calculator">CALCULAR AHORA</string>
+    <string name="text_height">Su altura:</string>
+    <string name="text_view">Vamos a cuidar de la Salud!</string>
+    <string name="text_weight">Su peso:</string>
+</resources>

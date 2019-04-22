@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="text_weight">Weight:</string>
+    <string name="text_height">Heigth:</string>
+    <string name="text_button_calculator">CALCULATE NOW</string>
+    <string name="text_view">Take care of health!</string>
+    <string name="text_kg" translatable="false">KG</string>
+    <string name="text_cm" translatable="false">CM</string>
+    <string name="text_button_x" translatable="false">X</string>
+</resources>
